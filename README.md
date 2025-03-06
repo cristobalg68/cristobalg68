@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="" target="_blank">
-<img src=/portfolio.png alt=github style="margin-bottom: 5px;" />
+<img src="/portfolio.png" alt=portfolio height="50" />
 </a>
 </div>  
 
