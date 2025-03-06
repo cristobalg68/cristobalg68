@@ -2,6 +2,8 @@
   <img src="/banner.png"  />
 </div>
 
+<p> </p>
+
 <div align="center">
 <a href="" target="_blank">
 <img src="/portfolio.png" alt=portfolio height="50" />
