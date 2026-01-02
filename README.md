@@ -5,7 +5,7 @@
 <p> </p>
 
 <div align="center">
-<a href="https://porfolio-ten-ivory.vercel.app" target="_blank">
+<a href="https://www.cristobalgf.com" target="_blank">
 <img src="/portfolio.png" alt=portfolio height="50" />
 </a>
 </div>  
